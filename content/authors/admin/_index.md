@@ -74,11 +74,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'nino.buliskeria@fsv.cuni.cz'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nino Buliskeria is Ph.D. candidate .... 
+Nino Buliskeria is a Ph.D. candidate at IES.... 
 {style="text-align: justify;"}

@@ -73,3 +73,5 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+publishDir: "docs"  # Add this line to specify the output directory
