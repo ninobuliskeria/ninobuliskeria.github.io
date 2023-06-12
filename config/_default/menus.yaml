@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Research
-    url: '#posts'
+    url: '#research'
     weight: 20
   - name: Teaching
     url: '#projects'
@@ -17,9 +17,9 @@ main:
     url: 'uploads/resume.pdf'
     weight: 40
     target: '_blank'  # Open link in a new window or tab
-  # - name: Publications
-  #   url: '#featured'
-  #   weight: 50
+  - name: Publications
+    url: '#featured'
+    weight: 50
   # - name: Contact
   #   url: '#contact'
   #   weight: 60

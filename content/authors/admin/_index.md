@@ -80,5 +80,9 @@ email: 'nino.buliskeria@fsv.cuni.cz'
 highlight_name: true
 ---
 
-Nino Buliskeria is a Ph.D. candidate at IES.... 
+I am Ph.D. candidate at the Institute of Economic Studies ([IES](https://ies.fsv.cuni.cz/)) of Charles University in Prague. 
+
+My primary research interests lie in understanding the role of expectations and uncertainty in household decision-making and the broader economy. Further, I explore the transition channels of household-level uncertainty through DSGE models with uncertainty. 
+
+In the broad sense, my interests extent to uncertainty, inequality, and heterogeneity. 
 {style="text-align: justify;"}
