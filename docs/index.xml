@@ -255,7 +255,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-253417968&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-425698731&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -265,7 +265,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-253417968&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-425698731&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -751,9 +751,46 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title></title>
+      <link>https://ninobuliskeria.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are (Some) Uncertainty Shocks Anticipated?</title>
+      <link>https://ninobuliskeria.github.io/research/exo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.github.io/research/exo/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Anatomy of the New Keynesian Phillips Curve</title>
       <link>https://ninobuliskeria.github.io/research/nkpc/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ninobuliskeria.github.io/research/nkpc/</guid>
       <description>&lt;!--
 
@@ -781,7 +818,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     <item>
       <title>Uncertain Trends in Economic Policy Uncertainty</title>
       <link>https://ninobuliskeria.github.io/research/uncertainty/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ninobuliskeria.github.io/research/uncertainty/</guid>
       <description>&lt;!--
 
@@ -805,14 +842,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ninobuliskeria.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.github.io/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>

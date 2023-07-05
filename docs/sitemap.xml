@@ -34,14 +34,6 @@
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ninobuliskeria.github.io/tag/source-themes/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.github.io/tags/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ninobuliskeria.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -55,6 +47,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ninobuliskeria.github.io/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ninobuliskeria.github.io/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -106,19 +102,19 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ninobuliskeria.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ninobuliskeria.github.io/publication-type/3/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ninobuliskeria.github.io/research/exo/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ninobuliskeria.github.io/research/nkpc/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ninobuliskeria.github.io/research/uncertainty/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
