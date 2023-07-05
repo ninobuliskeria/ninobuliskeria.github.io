@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nino Buliskeria
+title: Nino Buliskeria 
 
 # Full name (for SEO)
 first_name: Nino
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate 
+role: Ph.D. Candidate, UNCE Fellow 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://ies.fsv.cuni.cz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Economic Uncertainty, Inequality, Heterogeneous Agents and Dinamic Macroeconomics.
+# bio: My research interests include Economic Uncertainty, Inequality, Heterogeneous Agents and Dinamic Macroeconomics.
 
 # # Interests to show in About widget
 # interests:
@@ -70,7 +70,7 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
-    icon_pack: ai
+    icon_pack: fab
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -80,9 +80,9 @@ email: 'nino.buliskeria@fsv.cuni.cz'
 highlight_name: true
 ---
 
-I am Ph.D. candidate at the Institute of Economic Studies ([IES](https://ies.fsv.cuni.cz/)) of Charles University in Prague. 
 
-My primary research interests lie in understanding the role of expectations and uncertainty in household decision-making and the broader economy. Further, I explore the transition channels of household-level uncertainty through DSGE models with uncertainty. 
+გამარჯობა & Welcome! 
 
-In the broad sense, my interests extent to uncertainty, inequality, and heterogeneity. 
+I am Ph.D. candidate at the Institute of Economic Studies ([IES](https://ies.fsv.cuni.cz/)) of Charles University in Prague. I am primarily interested in the fields of Macroeconomics and Monetary Economics. My research focuses on exploring the impact of expectations and uncertainty on household decision-making, as well as their implications for inequality and the overall economy.
+
 {style="text-align: justify;"}

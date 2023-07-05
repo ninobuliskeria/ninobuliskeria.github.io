@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Nino Buliskeria</title>
-    <link>https://example.com/research/</link>
-      <atom:link href="https://example.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ninobuliskeria.github.io/research/</link>
+      <atom:link href="https://ninobuliskeria.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu94d7601043b0b4d4492d4b5b71839f91_27018_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ninobuliskeria.github.io/media/icon_hu94d7601043b0b4d4492d4b5b71839f91_27018_512x512_fill_lanczos_center_3.png</url>
       <title>Research</title>
-      <link>https://example.com/research/</link>
+      <link>https://ninobuliskeria.github.io/research/</link>
     </image>
     
     <item>
       <title>Do rural banks matter that much? Burgess and Pande (2005) reconsidered</title>
-      <link>https://example.com/research/journal-article/</link>
+      <link>https://ninobuliskeria.github.io/research/jae/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/research/journal-article/</guid>
+      <guid>https://ninobuliskeria.github.io/research/jae/</guid>
       <description>&lt;!--
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+    Click the ** button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -44,35 +44,59 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/research/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/research/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/research/conference-paper/</link>
+      <title>The Anatomy of the New Keynesian Phillips Curve</title>
+      <link>https://ninobuliskeria.github.io/research/nkpc/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/research/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://ninobuliskeria.github.io/research/nkpc/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertain Trends in Economic Policy Uncertainty</title>
+      <link>https://ninobuliskeria.github.io/research/uncertainty/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.github.io/research/uncertainty/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
 </description>
     </item>
     
