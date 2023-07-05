@@ -14,7 +14,18 @@ sections:
   - block: collection
     id: research
     content:
-      title: Research
+      title: Publications
+      filters:
+        folders:
+          - publication 
+        featured_only: false
+    design:
+      columns: '1'
+      view: card
+  - block: collection
+    id: research
+    content:
+      title: Research in progress 
       filters:
         folders:
           - research
