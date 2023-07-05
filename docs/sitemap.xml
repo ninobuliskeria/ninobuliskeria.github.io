@@ -10,6 +10,30 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ninobuliskeria.github.io/publication-type/3/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ninobuliskeria.github.io/research/exo/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ninobuliskeria.github.io/publication_types/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ninobuliskeria.github.io/research/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ninobuliskeria.github.io/research/uncertainty/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ninobuliskeria.github.io/research/nkpc/</loc>
+    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ninobuliskeria.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -22,15 +46,11 @@
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ninobuliskeria.github.io/research/jae/</loc>
+    <loc>https://ninobuliskeria.github.io/publication/jae/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ninobuliskeria.github.io/publication_types/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.github.io/research/</loc>
+    <loc>https://ninobuliskeria.github.io/publication/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -103,18 +123,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ninobuliskeria.github.io/admin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.github.io/publication-type/3/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.github.io/research/exo/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.github.io/research/nkpc/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.github.io/research/uncertainty/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
