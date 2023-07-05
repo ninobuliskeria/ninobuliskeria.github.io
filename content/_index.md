@@ -22,4 +22,8 @@ sections:
     design:
       columns: '1'
       view: Card
+  # - block: now
+  #   id: teaching
+  #     content:
+  #     title: Teaching
 ---
