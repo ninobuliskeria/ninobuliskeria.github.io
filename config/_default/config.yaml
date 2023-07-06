@@ -75,4 +75,4 @@ minify:
   _merge: deep
 
 publishDir: "docs"  # Add this line to specify the output directory
-google_analytics: G-CJCFHSTVZ5
+google_analytics: UA-CJCFHSTVZ5-x
