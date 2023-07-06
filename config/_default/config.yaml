@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Nino Buliskeria # Website name
-baseURL: 'https://ninobuliskeria.github.io/' # Website URL
+baseURL: 'https://ninobuliskeria.com/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -75,3 +75,4 @@ minify:
   _merge: deep
 
 publishDir: "docs"  # Add this line to specify the output directory
+google_analytics: G-CJCFHSTVZ5
