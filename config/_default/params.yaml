@@ -112,3 +112,9 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+# Google Analytics
+
+marketing:
+  analytics:
+    google_tag_manager: 'G-S40HPV4F9Z'
