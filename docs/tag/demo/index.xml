@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Nino Buliskeria</title>
-    <link>https://ninobuliskeria.github.io/tag/demo/</link>
-      <atom:link href="https://ninobuliskeria.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ninobuliskeria.com/tag/demo/</link>
+      <atom:link href="https://ninobuliskeria.com/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ninobuliskeria.github.io/media/icon_hu94d7601043b0b4d4492d4b5b71839f91_27018_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ninobuliskeria.com/media/icon_hu94d7601043b0b4d4492d4b5b71839f91_27018_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://ninobuliskeria.github.io/tag/demo/</link>
+      <link>https://ninobuliskeria.com/tag/demo/</link>
     </image>
     
     <item>
       <title>External Project</title>
-      <link>https://ninobuliskeria.github.io/project/external-project/</link>
+      <link>https://ninobuliskeria.com/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.github.io/project/external-project/</guid>
+      <guid>https://ninobuliskeria.com/project/external-project/</guid>
       <description></description>
     </item>
     
