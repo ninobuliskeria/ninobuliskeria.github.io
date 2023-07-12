@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-07-12
 type: landing
 
 sections:
@@ -33,8 +33,16 @@ sections:
     design:
       columns: '1'
       view: Card
-  # - block: now
-  #   id: teaching
-  #     content:
-  #     title: Teaching
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching Positions 
+      filters:
+        folders:
+          - teaching
+        featured_only: false
+    design:
+      columns: '2'
+      view: list
+    sort_by: 'Date'
 ---

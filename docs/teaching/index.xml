@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching Positions | Nino Buliskeria</title>
+    <link>https://ninobuliskeria.com/teaching/</link>
+      <atom:link href="https://ninobuliskeria.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching Positions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ninobuliskeria.com/media/icon_hu94d7601043b0b4d4492d4b5b71839f91_27018_512x512_fill_lanczos_center_3.png</url>
+      <title>Teaching Positions</title>
+      <link>https://ninobuliskeria.com/teaching/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://ninobuliskeria.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching/</guid>
+      <description>&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced Macroeconomics (graduate), TA, 2021/22, 2022/23&lt;/li&gt;
+&lt;li&gt;Econometrics II (undergraduate), 2021/22&lt;/li&gt;
+&lt;li&gt;Applied Econometrics (graduate), 2020/21&lt;/li&gt;
+&lt;li&gt;Econometrics II (undergraduate), 2020/21&lt;/li&gt;
+&lt;li&gt;Business Cycle Theory (graduate), 2019/20, 2020/21&lt;/li&gt;
+&lt;li&gt;Microeconomics I (undergraduate), 2018/19&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
