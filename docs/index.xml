@@ -5,7 +5,7 @@
     <link>https://ninobuliskeria.com/</link>
       <atom:link href="https://ninobuliskeria.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Nino Buliskeria</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ninobuliskeria.com/media/icon_hu94d7601043b0b4d4492d4b5b71839f91_27018_512x512_fill_lanczos_center_3.png</url>
       <title>Nino Buliskeria</title>
@@ -127,6 +127,22 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
+      <title>2022/23 - Macroeconomics I (undergraduate), Lecturer</title>
+      <link>https://ninobuliskeria.com/teaching/macro1/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching/macro1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2022/23, 2021/22 - Advanced Macroeconomics (graduate), TA</title>
+      <link>https://ninobuliskeria.com/teaching/advanced-macroeconomics-graduate-ta-202122-202223/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching/advanced-macroeconomics-graduate-ta-202122-202223/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Do rural banks matter that much? Burgess and Pande (2005) reconsidered</title>
       <link>https://ninobuliskeria.com/publication/jae/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
@@ -155,6 +171,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>2021/22, 2020/21 - Econometrics II (undergraduate), TA</title>
+      <link>https://ninobuliskeria.com/teaching/econometrics-ii-undergraduate-2020.21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching/econometrics-ii-undergraduate-2020.21/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -235,6 +259,22 @@ Supplementary notes can be added here, including [code, math, and images](https:
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>2020/21 - Applied Econometrics (graduate), TA</title>
+      <link>https://ninobuliskeria.com/teaching/applied-econometrics-graduate-2020.21/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching/applied-econometrics-graduate-2020.21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2020/21, 2019/20 - Business Cycle Theory (graduate), TA</title>
+      <link>https://ninobuliskeria.com/teaching/business-cycle-theory-graduate-2019.20-2020.21/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching/business-cycle-theory-graduate-2019.20-2020.21/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -341,7 +381,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-659247318&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-138924657&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -351,7 +391,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-659247318&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-138924657&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -816,6 +856,22 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>2018/19 - Banking (graduate), TA </title>
+      <link>https://ninobuliskeria.com/teaching/banking-graduate-2018.19/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching/banking-graduate-2018.19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018/19 - Microeconomics I (undergraduate), TA</title>
+      <link>https://ninobuliskeria.com/teaching/microeconomics-i-undergraduate-2018.19/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching/microeconomics-i-undergraduate-2018.19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Project</title>
       <link>https://ninobuliskeria.com/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -842,23 +898,6 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ninobuliskeria.com/admin/config.yml</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ninobuliskeria.com/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/teaching/</guid>
-      <description>&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced Macroeconomics (graduate), TA, 2021/22, 2022/23&lt;/li&gt;
-&lt;li&gt;Econometrics II (undergraduate), 2021/22&lt;/li&gt;
-&lt;li&gt;Applied Econometrics (graduate), 2020/21&lt;/li&gt;
-&lt;li&gt;Econometrics II (undergraduate), 2020/21&lt;/li&gt;
-&lt;li&gt;Business Cycle Theory (graduate), 2019/20, 2020/21&lt;/li&gt;
-&lt;li&gt;Microeconomics I (undergraduate), 2018/19&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>
