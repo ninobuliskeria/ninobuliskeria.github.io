@@ -21,7 +21,7 @@ sections:
         featured_only: false
     design:
       columns: '1'
-      view: card
+      view: Card
   - block: collection
     id: research
     content:
