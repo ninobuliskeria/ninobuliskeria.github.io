@@ -25,10 +25,10 @@ sections:
   - block: collection
     id: research
     content:
-      title: Research in progress 
+      title: Publications
       filters:
         folders:
-          - research
+          - publication 
         featured_only: false
     design:
       columns: '1'
@@ -36,10 +36,10 @@ sections:
   - block: collection
     id: research
     content:
-      title: Publications
+      title: Research in progress 
       filters:
         folders:
-          - publication 
+          - research
         featured_only: false
     design:
       columns: '1'
