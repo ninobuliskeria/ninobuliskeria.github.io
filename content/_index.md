@@ -11,17 +11,17 @@ sections:
       title: ---
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
-    id: research
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication 
-        featured_only: false
-    design:
-      columns: '1'
-      view: Card
+  # - block: collection
+  #   id: research
+  #   content:
+  #     title: Working Papers
+  #     filters:
+  #       folders:
+  #         - workingpapers
+  #       featured_only: false
+  #   design:
+  #     columns: '1'
+  #     view: Card
   - block: collection
     id: research
     content:
@@ -29,6 +29,17 @@ sections:
       filters:
         folders:
           - research
+        featured_only: false
+    design:
+      columns: '1'
+      view: Card
+  - block: collection
+    id: research
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication 
         featured_only: false
     design:
       columns: '1'

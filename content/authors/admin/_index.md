@@ -81,7 +81,7 @@ highlight_name: true
 ---
 
 
-გამარჯობა & Welcome! 
+Welcome! 
 
 I am Ph.D. candidate at the Institute of Economic Studies ([IES](https://ies.fsv.cuni.cz/)) of Charles University in Prague. I am primarily interested in the fields of Macroeconomics and Monetary Economics. My research focuses on exploring the impact of expectations and uncertainty on household decision-making, as well as their implications for inequality and the overall economy.
 

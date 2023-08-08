@@ -63,9 +63,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Uncertain Trends in Economic Policy Uncertainty</title>
-      <link>https://ninobuliskeria.com/research/uncertainty/</link>
+      <link>https://ninobuliskeria.com/workingpapers/uncertainty/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/uncertainty/</guid>
+      <guid>https://ninobuliskeria.com/workingpapers/uncertainty/</guid>
       <description>&lt;!--
 
 
@@ -410,7 +410,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-628395741&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-157236489&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -420,7 +420,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-628395741&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-157236489&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
