@@ -33,10 +33,10 @@
     </item>
     
     <item>
-      <title>Are (Some) Uncertainty Shocks Anticipated?</title>
-      <link>https://ninobuliskeria.com/research/exo/</link>
+      <title>Uncertain Trends in Economic Policy Uncertainty</title>
+      <link>https://ninobuliskeria.com/research/uncertainty/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/exo/</guid>
+      <guid>https://ninobuliskeria.com/research/uncertainty/</guid>
       <description>&lt;!--
 
 
@@ -62,10 +62,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Uncertain Trends in Economic Policy Uncertainty</title>
-      <link>https://ninobuliskeria.com/research/uncertainty/</link>
+      <title>Are (Some) Uncertainty Shocks Anticipated?</title>
+      <link>https://ninobuliskeria.com/research/exo/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/uncertainty/</guid>
+      <guid>https://ninobuliskeria.com/research/exo/</guid>
       <description>&lt;!--
 
 
@@ -381,7 +381,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-481293657&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-869127453&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -391,7 +391,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-481293657&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-869127453&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
