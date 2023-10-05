@@ -41,11 +41,10 @@ abstract: The news-based Economic Policy Uncertainty indices (EPU) of Germany, F
 # featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: 'Buliskeria_Uncertainty.pdf'
+links:
+#- name: url_pdf
+url_pdf: '10.05.2023.pdf'
+url_dataset: 'data.xlsx'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
