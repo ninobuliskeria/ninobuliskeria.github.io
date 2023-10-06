@@ -33,11 +33,12 @@
     </item>
     
     <item>
-      <title>Disentangling P-hacking From Publication Bias</title>
-      <link>https://ninobuliskeria.com/research/phacking/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/phacking/</guid>
-      <description>&lt;!--
+      <title>Uncertain Trends in Economic Policy Uncertainty</title>
+      <link>https://ninobuliskeria.com/research/uncertainty/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/research/uncertainty/</guid>
+      <description>&lt;p&gt;The news-based Economic Policy Uncertainty indices (EPU) of Germany, France, and the United Kingdom have discernible trends that can be found neither in other European countries nor in other uncertainty indicators. Therefore, we replicate the EPU index of European countries and show that these trends are sensitive to a rather arbitrary choice of normalizing the raw counts of news related to economic policy uncertainty by a count of all newspaper articles. We show that an alternative normalization by news on economic policy leads to different long-term dynamics with less pronounced trends and markedly lower uncertainty during recent uncertainty periods such as Brexit or the COVID-19 pandemic. Consequently, our results suggest that the effects of uncertainty related to these events on economic activity could have been overestimated.&lt;/p&gt;
+&lt;!--
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -62,10 +63,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Uncertain Trends in Economic Policy Uncertainty</title>
-      <link>https://ninobuliskeria.com/research/uncertainty/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/uncertainty/</guid>
+      <title>Disentangling P-hacking From Publication Bias</title>
+      <link>https://ninobuliskeria.com/research/phacking/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/research/phacking/</guid>
       <description>&lt;!--
 
 
@@ -439,7 +440,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-852739641&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-834712596&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -449,7 +450,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-852739641&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-834712596&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
