@@ -2,8 +2,6 @@
 title: 'Uncertain Trends in Economic Policy Uncertainty'
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
   - Jaromir Baxa
@@ -14,7 +12,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-07-01T00:00:00Z'
+date: '2023-10-06T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -37,6 +35,10 @@ links:
 - name: Dataset
   url: data.xlsx
 ---
+
+The news-based Economic Policy Uncertainty indices (EPU) of Germany, France, and the United Kingdom have discernible trends that can be found neither in other European countries nor in other uncertainty indicators. Therefore, we replicate the EPU index of European countries and show that these trends are sensitive to a rather arbitrary choice of normalizing the raw counts of news related to economic policy uncertainty by a count of all newspaper articles. We show that an alternative normalization by news on economic policy leads to different long-term dynamics with less pronounced trends and markedly lower uncertainty during recent uncertainty periods such as Brexit or the COVID-19 pandemic. Consequently, our results suggest that the effects of uncertainty related to these events on economic activity could have been overestimated.
+
+
 
 <!--
 {{% callout note %}}
