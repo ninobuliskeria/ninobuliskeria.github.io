@@ -31,7 +31,7 @@ abstract: The news-based Economic Policy Uncertainty indices (EPU) of Germany, F
  
 links:
 - name: PDF
-  url: epu.pdf
+  url: work.pdf
 - name: Dataset
   url: data.xlsx
 ---
