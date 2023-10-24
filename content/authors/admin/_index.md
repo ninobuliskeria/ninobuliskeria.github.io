@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:nino.buliskeria@fsv.cuni.cz"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/BuliskeriaNino
@@ -65,7 +65,7 @@ social:
     link: https://github.com/ninobuliskeria
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/nino-buliskeria-975a9b95/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -73,16 +73,16 @@ social:
     icon_pack: fab
     link: uploads/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'nino.buliskeria@fsv.cuni.cz'
-
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
+I am currently a Ph.D. candidate enrolled at Charles University in Prague, specifically at the Institute of Economic Studies ([IES](https://ies.fsv.cuni.cz/)). My focus revolves around analyzing economic issues using extensive datasets, with my primary fields of interest being Macroeconomics and Econometrics.
 
-Welcome! 
+My research is divided into two main components. The first part is dedicated to investigating how people's expectations and uncertainty influence their economic decisions and how these decisions can impact economic inequality and the broader economy. Within this area, I delve into the impact of financial frictions and limited access to financial intermediaries.
 
-I am Ph.D. candidate at the Institute of Economic Studies ([IES](https://ies.fsv.cuni.cz/)) of Charles University in Prague. I am primarily interested in the fields of Macroeconomics and Monetary Economics. My research focuses on exploring the impact of expectations and uncertainty on household decision-making, as well as their implications for inequality and the overall economy.
+The second aspect of my research seeks to understand the sources, scale, and consequences of biased reporting in economic research. I am particularly interested in developing and applying techniques to identify and rectify biases that may be present in the economics literature.
+
+Contact: [nino.buliskeria[at]fsv.cuni.cz](nino.buliskeria@fsv.cuni.cz)
 
 {style="text-align: justify;"}

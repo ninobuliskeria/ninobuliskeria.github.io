@@ -21,10 +21,6 @@ publishDate: '2023-06-01T00:00:00Z'
 # Publication type.
 publication_types: ['3']
 
-# Publication name and optional abbreviated publication name.
-# publication: In *Wowchemy Conference*
-# publication_short: In *ICW*
-
 abstract: The news-based Economic Policy Uncertainty indices (EPU) of Germany, France, and the United Kingdom have discernible trends that can be found neither in other European countries nor in other uncertainty indicators. Therefore, we replicate the EPU index of European countries and show that these trends are sensitive to a rather arbitrary choice of normalizing the raw counts of news related to economic policy uncertainty by a count of all newspaper articles. We show that an alternative normalization by news on economic policy leads to different long-term dynamics with less pronounced trends and markedly lower uncertainty during recent uncertainty periods such as Brexit or the COVID-19 pandemic. Consequently, our results suggest that the effects of uncertainty related to these events on economic activity could have been overestimated.
 
  
