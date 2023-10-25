@@ -33,8 +33,12 @@ summary: "We replicate Burgess and Pande's (2005) analysis of the effect of Indi
 # featured: false
 
 links:
-- name: "working paper"
-  url: 'wp_16_2020_buliskeria_baxa.pdf'
+- name: "WP"
+  url: 'wp.pdf'
+- name: "Online Appendix"
+  url: 'onlineappendix.pdf'
+- name: "Replication Package"
+  url: 'bb-files.zip'  
  
 
 
@@ -44,7 +48,7 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
