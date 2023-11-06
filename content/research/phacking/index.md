@@ -1,6 +1,6 @@
 ---
-title: 'Disentangling P-hacking From Publication Bias'
-
+#title: 'Disentangling P-hacking From Publication Bias'
+title: 'Sources of Selective Reporting in Economics'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
@@ -29,7 +29,7 @@ publication_types: ['3']
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: Selective reporting of empirical results may distort our understanding of how robust the documented regularities are and give a false impression of their generalizability. Both researchers and journal editors have incentives to publish unambiguous findings that convey a clear message. Competing for citation-based impact factors, editors often prefer to publish results that are (i) consistent with the prior expectations and (ii) statistically significant. Authors may, in turn, strive to provide such results. Naturally, these findings raise doubts about the trustworthiness of established scientific knowledge. We study the impact of reporting and publication biases using meta-data across 600 meta-studies and over 23000 studies that cover different fields of social sciences – economics and finance, agricultural and environmental, behavioral, psychological, and gender studies. First, we aim to develop a novel methodology that will allow us to distinguish between p-hacking and publication bias and identify research stages when these biases originate.
+abstract: Selective reporting of empirical results can distort our understanding of how robust documented regularities are and give a false impression of their generalizability. Both researchers and journal editors have incentives to publish unambiguous findings that convey a clear message. Competing for citation-based impact factors, editors often prefer to publish results that are (i) consistent with prior expectations and (ii) statistically significant. Authors, motivated by editors' preferences, may strive to provide such results. Therefore, editors and referees have one decision to make -  publish or reject the manuscript. While the researcher decides whether to submit the article to the journal (file drawer effect), they can be incentivized by editors and referees' preferences to engage in p-hacking, a practice to selectively report desired point estimates and standard errors, or choose the methodologies that yield such results. Enevthough selective submission and publication of papers solely with significant and large point estimates create publication bias, it is only a selection process that is applied to a group of individual point estimates, each of which may be unbiased for their corresponding population effects. Editors and referees typically carry out this process by deciding whether to publish a study, and authors by deciding whether to withhold a paper from publication. Whereas p-hacking introduces bias in point estimates within a study. Therefore, p-hacking can potentially pose a greater threat to the reliability of the literature than selective publication bias. The aim of this article is to identify and compare the extent of publication bias and p-hacking in the different states of research (published, working papers and never published literature), using a novel approach. I study the impact of reporting and publication biases using meta-data across 600 meta-studies and over 23000 studies that cover different fields of economics. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -73,9 +73,12 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
----
 
+
+---
+Selective reporting of empirical results can distort our understanding of how robust documented regularities are and give a false impression of their generalizability. Both researchers and journal editors have incentives to publish unambiguous findings that convey a clear message. Competing for citation-based impact factors, editors often prefer to publish results that are (i) consistent with prior expectations and (ii) statistically significant. Authors, motivated by editors' preferences, may strive to provide such results. Therefore, editors and referees have one decision to make -  publish or reject the manuscript. While the researcher decides whether to submit the article to the journal (file drawer effect), they can be incentivized by editors and referees' preferences to engage in p-hacking, a practice to selectively report desired point estimates and standard errors, or choose the methodologies that yield such results. Enevthough selective submission and publication of papers solely with significant and large point estimates create publication bias, it is only a selection process that is applied to a group of individual point estimates, each of which may be unbiased for their corresponding population effects. Editors and referees typically carry out this process by deciding whether to publish a study, and authors by deciding whether to withhold a paper from publication. Whereas p-hacking introduces bias in point estimates within a study. Therefore, p-hacking can potentially pose a greater threat to the reliability of the literature than selective publication bias. The aim of this article is to identify and compare the extent of publication bias and p-hacking in the different states of research (published, working papers and never published literature), using a novel approach. I study the impact of reporting and publication biases using meta-data across 600 meta-studies and over 23000 studies that cover different fields of economics. 
 <!--
+
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
