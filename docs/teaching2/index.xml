@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching Positions | Nino Buliskeria</title>
+    <link>https://ninobuliskeria.com/teaching2/</link>
+      <atom:link href="https://ninobuliskeria.com/teaching2/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching Positions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ninobuliskeria.com/media/icon_hu94d7601043b0b4d4492d4b5b71839f91_27018_512x512_fill_lanczos_center_3.png</url>
+      <title>Teaching Positions</title>
+      <link>https://ninobuliskeria.com/teaching2/</link>
+    </image>
+    
+    <item>
+      <title>2022/23 - Macroeconomics I (undergraduate), Lecturer</title>
+      <link>https://ninobuliskeria.com/teaching2/macro1/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching2/macro1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2022/23, 2021/22 - Advanced Macroeconomics (graduate), TA</title>
+      <link>https://ninobuliskeria.com/teaching2/advanced-macroeconomics-graduate-ta-202122-202223/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching2/advanced-macroeconomics-graduate-ta-202122-202223/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021/22, 2020/21 - Econometrics II (undergraduate), TA</title>
+      <link>https://ninobuliskeria.com/teaching2/econometrics-ii-undergraduate-2020.21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching2/econometrics-ii-undergraduate-2020.21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2020/21 - Applied Econometrics (graduate), TA</title>
+      <link>https://ninobuliskeria.com/teaching2/applied-econometrics-graduate-2020.21/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching2/applied-econometrics-graduate-2020.21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2020/21, 2019/20 - Business Cycle Theory (graduate), TA</title>
+      <link>https://ninobuliskeria.com/teaching2/business-cycle-theory-graduate-2019.20-2020.21/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching2/business-cycle-theory-graduate-2019.20-2020.21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018/19 - Banking (graduate), TA </title>
+      <link>https://ninobuliskeria.com/teaching2/banking-graduate-2018.19/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching2/banking-graduate-2018.19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018/19 - Microeconomics I (undergraduate), TA</title>
+      <link>https://ninobuliskeria.com/teaching2/microeconomics-i-undergraduate-2018.19/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/teaching2/microeconomics-i-undergraduate-2018.19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

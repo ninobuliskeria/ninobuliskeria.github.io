@@ -14,9 +14,9 @@
     
     <item>
       <title>Disentangling P-hacking From Publication Bias</title>
-      <link>https://ninobuliskeria.com/research/phacking/</link>
+      <link>https://ninobuliskeria.com/research/working-papers/phacking/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/phacking/</guid>
+      <guid>https://ninobuliskeria.com/research/working-papers/phacking/</guid>
       <description>&lt;p&gt;This study differentiates p-hacking from publication bias by examining biases resulting from selective reporting within studies versus selective publication of entire studies. Analyzing a dataset of 400 meta-studies, encompassing nearly 200,000 estimates from approximately 19,000 individual studies in economics and related social sciences, I observe a notably higher incidence of p-hacking as compared to selective publication. Employing various meta-regression methods, I find that selective reporting within studies is about 20% more prevalent than publication bias arising from selection among studies. This finding underscores the considerable influence of practices such as p-hacking and method-searching, suggesting that they contribute significantly to selection bias in the economic literature and could affect the perceived reliability of published findings.&lt;/p&gt;
 &lt;!--
 
@@ -45,9 +45,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Uncertain Trends in Economic Policy Uncertainty</title>
-      <link>https://ninobuliskeria.com/research/uncertainty/</link>
+      <link>https://ninobuliskeria.com/research/working-papers/uncertainty/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/uncertainty/</guid>
+      <guid>https://ninobuliskeria.com/research/working-papers/uncertainty/</guid>
       <description>&lt;p&gt;The news-based Economic Policy Uncertainty indices (EPU) of Germany, France, and the United Kingdom have discernible trends that can be found neither in other European countries nor in other uncertainty indicators. Therefore, we replicate the EPU index of European countries and show that these trends are sensitive to a rather arbitrary choice of normalizing the raw counts of news related to economic policy uncertainty by a count of all newspaper articles. We show that an alternative normalization by news on economic policy leads to different long-term dynamics with less pronounced trends and markedly lower uncertainty during recent uncertainty periods such as Brexit or the COVID-19 pandemic. Consequently, our results suggest that the effects of uncertainty related to these events on economic activity could have been overestimated.&lt;/p&gt;
 &lt;!--
 
@@ -74,39 +74,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Uncertain Trends in Economic Policy Uncertainty</title>
-      <link>https://ninobuliskeria.com/workingpapers/uncertainty/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/workingpapers/uncertainty/</guid>
-      <description>&lt;!--
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Are (Some) Uncertainty Shocks Anticipated?</title>
-      <link>https://ninobuliskeria.com/research/exo/</link>
+      <link>https://ninobuliskeria.com/research/work-in-progress/exo/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/exo/</guid>
+      <guid>https://ninobuliskeria.com/research/work-in-progress/exo/</guid>
       <description>&lt;!--
 
 
@@ -133,9 +104,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>The Anatomy of the New Keynesian Phillips Curve</title>
-      <link>https://ninobuliskeria.com/research/nkpc/</link>
+      <link>https://ninobuliskeria.com/research/work-in-progress/nkpc/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/nkpc/</guid>
+      <guid>https://ninobuliskeria.com/research/work-in-progress/nkpc/</guid>
       <description>&lt;!--
 
 

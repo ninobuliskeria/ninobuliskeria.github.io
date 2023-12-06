@@ -13,30 +13,57 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://ninobuliskeria.com/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Published Papers</title>
+      <link>https://ninobuliskeria.com/research/1-published/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/research/1-published/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do rural banks matter that much? Burgess and Pande (2005) reconsidered</title>
+      <link>https://ninobuliskeria.com/research/published/jae/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/research/published/jae/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+    Click the ** button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+--&gt;
 </description>
     </item>
     
     <item>
+      <title>Working Papers</title>
+      <link>https://ninobuliskeria.com/research/2-working-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/research/2-working-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Disentangling P-hacking From Publication Bias</title>
-      <link>https://ninobuliskeria.com/research/phacking/</link>
+      <link>https://ninobuliskeria.com/research/working-papers/phacking/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/phacking/</guid>
+      <guid>https://ninobuliskeria.com/research/working-papers/phacking/</guid>
       <description>&lt;p&gt;This study differentiates p-hacking from publication bias by examining biases resulting from selective reporting within studies versus selective publication of entire studies. Analyzing a dataset of 400 meta-studies, encompassing nearly 200,000 estimates from approximately 19,000 individual studies in economics and related social sciences, I observe a notably higher incidence of p-hacking as compared to selective publication. Employing various meta-regression methods, I find that selective reporting within studies is about 20% more prevalent than publication bias arising from selection among studies. This finding underscores the considerable influence of practices such as p-hacking and method-searching, suggesting that they contribute significantly to selection bias in the economic literature and could affect the perceived reliability of published findings.&lt;/p&gt;
 &lt;!--
 
@@ -65,9 +92,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Uncertain Trends in Economic Policy Uncertainty</title>
-      <link>https://ninobuliskeria.com/research/uncertainty/</link>
+      <link>https://ninobuliskeria.com/research/working-papers/uncertainty/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/uncertainty/</guid>
+      <guid>https://ninobuliskeria.com/research/working-papers/uncertainty/</guid>
       <description>&lt;p&gt;The news-based Economic Policy Uncertainty indices (EPU) of Germany, France, and the United Kingdom have discernible trends that can be found neither in other European countries nor in other uncertainty indicators. Therefore, we replicate the EPU index of European countries and show that these trends are sensitive to a rather arbitrary choice of normalizing the raw counts of news related to economic policy uncertainty by a count of all newspaper articles. We show that an alternative normalization by news on economic policy leads to different long-term dynamics with less pronounced trends and markedly lower uncertainty during recent uncertainty periods such as Brexit or the COVID-19 pandemic. Consequently, our results suggest that the effects of uncertainty related to these events on economic activity could have been overestimated.&lt;/p&gt;
 &lt;!--
 
@@ -94,39 +121,18 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Uncertain Trends in Economic Policy Uncertainty</title>
-      <link>https://ninobuliskeria.com/workingpapers/uncertainty/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/workingpapers/uncertainty/</guid>
-      <description>&lt;!--
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <title>Work in Progress</title>
+      <link>https://ninobuliskeria.com/research/3-work-in-progress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/research/3-work-in-progress/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Are (Some) Uncertainty Shocks Anticipated?</title>
-      <link>https://ninobuliskeria.com/research/exo/</link>
+      <link>https://ninobuliskeria.com/research/work-in-progress/exo/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/exo/</guid>
+      <guid>https://ninobuliskeria.com/research/work-in-progress/exo/</guid>
       <description>&lt;!--
 
 
@@ -153,9 +159,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>The Anatomy of the New Keynesian Phillips Curve</title>
-      <link>https://ninobuliskeria.com/research/nkpc/</link>
+      <link>https://ninobuliskeria.com/research/work-in-progress/nkpc/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/research/nkpc/</guid>
+      <guid>https://ninobuliskeria.com/research/work-in-progress/nkpc/</guid>
       <description>&lt;!--
 
 
@@ -180,34 +186,46 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title></title>
-      <link>https://ninobuliskeria.com/copyof_index/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/copyof_index/</guid>
-      <description></description>
+      <title>Example Talk</title>
+      <link>https://ninobuliskeria.com/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>2022/23 - Macroeconomics I (undergraduate), Lecturer</title>
-      <link>https://ninobuliskeria.com/teaching/macro1/</link>
+      <link>https://ninobuliskeria.com/teaching2/macro1/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/teaching/macro1/</guid>
+      <guid>https://ninobuliskeria.com/teaching2/macro1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2022/23, 2021/22 - Advanced Macroeconomics (graduate), TA</title>
-      <link>https://ninobuliskeria.com/teaching/advanced-macroeconomics-graduate-ta-202122-202223/</link>
+      <link>https://ninobuliskeria.com/teaching2/advanced-macroeconomics-graduate-ta-202122-202223/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/teaching/advanced-macroeconomics-graduate-ta-202122-202223/</guid>
+      <guid>https://ninobuliskeria.com/teaching2/advanced-macroeconomics-graduate-ta-202122-202223/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Do rural banks matter that much? Burgess and Pande (2005) reconsidered</title>
-      <link>https://ninobuliskeria.com/publication/jae/</link>
+      <link>https://ninobuliskeria.com/other/publication/jae/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/publication/jae/</guid>
+      <guid>https://ninobuliskeria.com/other/publication/jae/</guid>
       <description>&lt;!--
 
 
@@ -236,9 +254,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>2021/22, 2020/21 - Econometrics II (undergraduate), TA</title>
-      <link>https://ninobuliskeria.com/teaching/econometrics-ii-undergraduate-2020.21/</link>
+      <link>https://ninobuliskeria.com/teaching2/econometrics-ii-undergraduate-2020.21/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/teaching/econometrics-ii-undergraduate-2020.21/</guid>
+      <guid>https://ninobuliskeria.com/teaching2/econometrics-ii-undergraduate-2020.21/</guid>
       <description></description>
     </item>
     
@@ -324,17 +342,17 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>2020/21 - Applied Econometrics (graduate), TA</title>
-      <link>https://ninobuliskeria.com/teaching/applied-econometrics-graduate-2020.21/</link>
+      <link>https://ninobuliskeria.com/teaching2/applied-econometrics-graduate-2020.21/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/teaching/applied-econometrics-graduate-2020.21/</guid>
+      <guid>https://ninobuliskeria.com/teaching2/applied-econometrics-graduate-2020.21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2020/21, 2019/20 - Business Cycle Theory (graduate), TA</title>
-      <link>https://ninobuliskeria.com/teaching/business-cycle-theory-graduate-2019.20-2020.21/</link>
+      <link>https://ninobuliskeria.com/teaching2/business-cycle-theory-graduate-2019.20-2020.21/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/teaching/business-cycle-theory-graduate-2019.20-2020.21/</guid>
+      <guid>https://ninobuliskeria.com/teaching2/business-cycle-theory-graduate-2019.20-2020.21/</guid>
       <description></description>
     </item>
     
@@ -442,7 +460,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-951628734&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-126578439&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -452,7 +470,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-951628734&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-126578439&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -918,17 +936,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>2018/19 - Banking (graduate), TA </title>
-      <link>https://ninobuliskeria.com/teaching/banking-graduate-2018.19/</link>
+      <link>https://ninobuliskeria.com/teaching2/banking-graduate-2018.19/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/teaching/banking-graduate-2018.19/</guid>
+      <guid>https://ninobuliskeria.com/teaching2/banking-graduate-2018.19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2018/19 - Microeconomics I (undergraduate), TA</title>
-      <link>https://ninobuliskeria.com/teaching/microeconomics-i-undergraduate-2018.19/</link>
+      <link>https://ninobuliskeria.com/teaching2/microeconomics-i-undergraduate-2018.19/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://ninobuliskeria.com/teaching/microeconomics-i-undergraduate-2018.19/</guid>
+      <guid>https://ninobuliskeria.com/teaching2/microeconomics-i-undergraduate-2018.19/</guid>
       <description></description>
     </item>
     
@@ -958,6 +976,22 @@ $$&lt;/p&gt;
       <link>https://ninobuliskeria.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ninobuliskeria.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index1</title>
+      <link>https://ninobuliskeria.com/other/_index1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/other/_index1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ninobuliskeria.com/other/_index_wp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/other/_index_wp/</guid>
       <description></description>
     </item>
     

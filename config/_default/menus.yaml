@@ -5,21 +5,21 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '/'
     weight: 10
   - name: Research
-    url: '#research'
+    url: '/research/'
     weight: 20
   - name: Teaching
-    url: '#teaching'
+    url: '/teaching/'
     weight: 30
   - name: CV
     url: 'uploads/resume.pdf'
     weight: 40
     target: '_blank'  # Open link in a new window or tab
-  # - name: Publications
-  #   url: '#featured'
-  #   weight: 50
+#  - name: Publications
+#    url: '#featured'
+#    weight: 50
   # - name: Contact
   #   url: '#contact'
   #   weight: 60

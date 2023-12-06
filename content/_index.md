@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 
 date: 2023-07-12
 type: landing
 
@@ -22,38 +22,49 @@ sections:
   #   design:
   #     columns: '1'
   #     view: Card
-  - block: collection
-    id: research
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication 
-        featured_only: false
-    design:
-      columns: '1'
-      view: Card
-  - block: collection
-    id: research
-    content:
-      title: Research in progress 
-      filters:
-        folders:
-          - research
-        featured_only: false
-    design:
-      columns: '1'
-      view: Card
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching Positions 
-      filters:
-        folders:
-          - teaching
-        featured_only: false
-    design:
-      columns: '2'
-      view: list
-    sort_by: 'Date'
+#  - block: collection
+#    id: research
+#    content:
+#      title: Publications
+#      filters:
+#        folders:
+#          - research/publication 
+#        featured_only: true
+#    design:
+#      columns: '1'
+#      view: Card
+#  - block: collection
+#    id: research
+#    content:
+#      title: Working Papers
+#      filters:
+#        folders:
+#          - workingpapers
+#        featured_only: false
+#    design:
+#      columns: '1'
+#      view: Card
+#  - block: collection
+#    id: research
+#    content:
+#      title: Research in progress 
+#      filters:
+#        folders:
+#          - research
+#        featured_only: false
+#    design:
+#      columns: '1'
+#      view: Card
+#  - block: collection
+#    id: teaching
+#    content:
+#      title: Teaching Positions 
+#      filters:
+#        folders:
+#          - teaching
+#        featured_only: false
+#    design:
+#      columns: '2'
+#      view: list
+#    sort_by: 'Date'
 ---
