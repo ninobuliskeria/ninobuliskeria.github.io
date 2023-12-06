@@ -1,5 +1,5 @@
 ---
-widget: 'post'
+widget: 'page'
 active: true
 show_date: false
 headless: true

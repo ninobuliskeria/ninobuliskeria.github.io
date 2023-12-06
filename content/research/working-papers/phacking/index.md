@@ -1,6 +1,7 @@
 ---
 title: 'Disentangling P-hacking From Publication Bias'
 weight: 21
+show_date: false
 #title: 'Sources of Selective Reporting in Economics'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
