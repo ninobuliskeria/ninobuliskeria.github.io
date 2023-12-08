@@ -61,7 +61,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Disentangling P-hacking From Publication Bias</title>
+      <title>Disentangling p-Hacking and Publication Bias</title>
       <link>https://ninobuliskeria.com/research/working-papers/phacking/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://ninobuliskeria.com/research/working-papers/phacking/</guid>
@@ -461,7 +461,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-825413967&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-957183642&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -471,7 +471,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-825413967&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-957183642&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

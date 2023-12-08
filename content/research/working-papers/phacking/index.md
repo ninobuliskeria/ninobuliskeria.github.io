@@ -1,5 +1,5 @@
 ---
-title: 'Disentangling P-hacking From Publication Bias'
+title: 'Disentangling p-Hacking and Publication Bias'
 weight: 21
 show_date: false
 #title: 'Sources of Selective Reporting in Economics'
