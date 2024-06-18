@@ -81,8 +81,8 @@ slides: ""
 links:
 - name: PDF
   url: Bias.pdf
-  
-
+- name: code
+  url: biaspackage.zip
 
 #Selective reporting of empirical results can distort our understanding of how robust documented regularities are and give a false impression of their generalizability. Both researchers and journal editors have incentives to publish unambiguous findings that convey a clear message. Competing for citation-based impact factors, editors often prefer to publish results that are (i) consistent with prior expectations and (ii) statistically significant. Authors, motivated by editors' preferences, may strive to provide such results. Therefore, editors and referees have one decision to make -  publish or reject the manuscript. While the researcher decides whether to submit the article to the journal (file drawer effect), they can be incentivized by editors and referees' preferences to engage in p-hacking, a practice to selectively report desired point estimates and standard errors, or choose the methodologies that yield such results. Enevthough selective submission and publication of papers solely with significant and large point estimates create publication bias, it is only a selection process that is applied to a group of individual point estimates, each of which may be unbiased for their corresponding population effects. Editors and referees typically carry out this process by deciding whether to publish a study, and authors by deciding whether to withhold a paper from publication. Whereas p-hacking introduces bias in point estimates within a study. Therefore, p-hacking can potentially pose a greater threat to the reliability of the literature than selective publication bias. The aim of this article is to identify and compare the extent of publication bias and p-hacking in the different states of research (published, working papers and never published literature), using a novel approach. I study the impact of reporting and publication biases using meta-data across 600 meta-studies and over 23000 studies that cover different fields of economics. 
 
