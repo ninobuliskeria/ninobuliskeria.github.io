@@ -2,10 +2,6 @@
 title: 'Disentangling p-Hacking and Publication Bias'
 weight: 21
 show_date: false
-#title: 'Sources of Selective Reporting in Economics'
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
  
@@ -16,7 +12,6 @@ authors:
 #   - 'Equal contribution'
 # 
 date: '2023-11-01T00:00:00Z'
-doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-11-01T00:00:00Z'

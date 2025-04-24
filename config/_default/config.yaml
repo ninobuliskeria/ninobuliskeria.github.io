@@ -32,7 +32,8 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -40,7 +41,7 @@ ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
-  categories: '/category/:slug/'
+  # categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
@@ -74,5 +75,11 @@ sitemap:
 minify:
   _merge: deep
 
+#publishDir: "docs"  # Add this line to specify the output directory
+#googleAnalytics: G-S40HPV4F9Z
+
 publishDir: "docs"  # Add this line to specify the output directory
-googleAnalytics: G-S40HPV4F9Z
+analytics:
+  google:
+    id: "G-S40HPV4F9Z"
+

@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ninobuliskeria.com/research/1-published/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ninobuliskeria.com/research/published/jae/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/research/2-working-papers/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ninobuliskeria.com/research/working-papers/phacking/</loc>
@@ -20,23 +14,12 @@
     <lastmod>2023-10-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ninobuliskeria.com/research/3-work-in-progress/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ninobuliskeria.com/research/work-in-progress/exo/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ninobuliskeria.com/research/work-in-progress/nkpc/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ninobuliskeria.com/publication-type/3/</loc>
@@ -55,36 +38,8 @@
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ninobuliskeria.com/publication-type/0/</loc>
-    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/teaching2/macro1/</loc>
-    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/teaching2/</loc>
-    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/teaching2/advanced-macroeconomics-graduate-ta-202122-202223/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ninobuliskeria.com/publication-type/2/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/other/publication/jae/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/other/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/teaching2/econometrics-ii-undergraduate-2020.21/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ninobuliskeria.com/tag/academic/</loc>
@@ -95,7 +50,7 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ninobuliskeria.com/category/demo/</loc>
+    <loc>https://ninobuliskeria.com/categories/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -115,16 +70,8 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ninobuliskeria.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://ninobuliskeria.com/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/teaching2/applied-econometrics-graduate-2020.21/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/teaching2/business-cycle-theory-graduate-2019.20-2020.21/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ninobuliskeria.com/post/writing-technical-content/</loc>
@@ -143,41 +90,7 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ninobuliskeria.com/teaching2/banking-graduate-2018.19/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/teaching2/microeconomics-i-undergraduate-2018.19/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ninobuliskeria.com/admin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/other/_index1/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ninobuliskeria.com/other/_index_wp/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ninobuliskeria.com/teaching/</loc>

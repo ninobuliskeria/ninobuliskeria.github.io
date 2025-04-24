@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 
+title: "TEST TITLE"
 date: 2023-07-12
 type: landing
 
@@ -8,20 +8,20 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: ---
+      title: "TEST TITLE"
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: collection
-  #   id: research
-  #   content:
-  #     title: Working Papers
-  #     filters:
-  #       folders:
-  #         - workingpapers
-  #       featured_only: false
-  #   design:
-  #     columns: '1'
-  #     view: Card
+# - block: collection
+#   id: research
+#   content:
+#     title: Working Papers
+#     filters:
+#       folders:
+#         - workingpapers
+#       featured_only: false
+#   design:
+#     columns: '1'
+#     view: Card
 #  - block: collection
 #    id: research
 #    content:
